@@ -1,0 +1,23 @@
+{
+  "name": "mysqlconn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramsingh7568/mysqlconn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikramsingh7568/mysqlconn/issues"
+  },
+  "homepage": "https://github.com/vikramsingh7568/mysqlconn#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1"
+  }
+}
